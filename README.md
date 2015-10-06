@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pzuraq/ember-pod-css.svg)](https://travis-ci.org/pzuraq/ember-pod-css)
+
 # Ember-pod-css
 
 This Ember addon adds a `podClass` property to Controllers and Components in
